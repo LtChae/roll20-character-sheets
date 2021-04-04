@@ -572,7 +572,8 @@ textarea {
     grid-row: 2;
     grid-column: 6/11;
 }
-.sheet-custom-roll-select.sheet-short {
+.sheet-custom-roll-select.
+{
     width: 4.5em;
 }
 .sheet-coolness-under-fire {
@@ -627,7 +628,7 @@ select.sheet-short {
     appearance: none;
     font-family: T2KCharSheet;
 	color: #877D70;
-    width: 2em;
+    width: 3em;
     font-size: 1.25em;
     text-align: center;
 }
